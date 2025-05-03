@@ -43,7 +43,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.title("🧪 Calculadora de Dilución (con contracción + pesos)")
+st.title("🧪 Calculadora de Dilución (con contracción de volumen)")
 
 st.markdown(
     "Ingresá los datos y presioná **Calcular alcohol base**. "
