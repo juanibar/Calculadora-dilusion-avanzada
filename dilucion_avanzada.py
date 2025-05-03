@@ -47,7 +47,7 @@ st.title("🧪 Calculadora de Dilución (con contracción + pesos)")
 
 st.markdown(
     "Ingresá los datos y presioná **Calcular alcohol base**. "
-    "El cálculo corrige la contracción de volumen y, además, te indica "
+    "El cálculo tiene en cuenta la contracción de volumen que se produce al mezclar agua y alcohol, además, te indica "
     "el peso en gramos de alcohol y agua si trabajás con balanza."
 )
 
